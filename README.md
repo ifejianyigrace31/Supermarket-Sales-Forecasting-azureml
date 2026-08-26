@@ -69,11 +69,12 @@ This analysis identifies the primary operational, demographic, and behavioral dr
 ## Machine Learning Results
 * **My Strategy:** Moving beyond descriptive metrics, I engineered a predictive pipeline to forecast `sales` revenue. I excluded 'sales', 'invoice_id', 'cogs', 'gross_margin_percentage', 'gross_income', 'time' columns from the feature set. I initiated a structured `train_test_split`  into an **80% training set** and a **20% testing set**.
 *  **Scikit-Learn Linear Regression** model is the strongest tested model.
+*  
 | Metric | Linear Regression | Decision Tree |
 | :--- | :---: | :---: |
 | **MAE** | 0.0 | 1.5301 |
 | **RMSE** | 0.0 | 2.4706 |
-| **R2 Score** | 1.0 | 0.9999 
+| **R2 Score** | 1.0 | 0.9999 |
 
 
 
