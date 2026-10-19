@@ -1,32 +1,33 @@
 # Supermarket-Sales-Forecasting-azureml
-An end-to-end data science lifecycle project building building a predictive model for a supermarket to forecast total sales per transaction inside Azure ML Studio
 
-## 🌟 Project Executive Summary
-This analysis identifies the primary operational, demographic, and behavioral drivers of revenue using historical retail transaction data. Operating within an **Azure Machine Learning notebook**, I engineered data pipelines, conducted an extensive exploratory data analysis (EDA), and built a predictive machine learning model. By evaluating how variables like customer membership type, transaction timing, and hyper-local product preferences interact, this project provides data-driven strategies to optimize  inventory management, staffing, store performance, maximize profit margins, and drive target loyalty growth. 
+##  Project Executive Summary
+This analysis identifies the primary operational, demographic, and behavioral drivers of revenue using historical retail transaction data. Operating within an **Azure Machine Learning notebook**, I engineered data pipelines, conducted an extensive exploratory data analysis (EDA), and built a predictive machine learning model to forecast total sales per transaction. By evaluating how variables like customer membership type, transaction timing, and hyper-local product preferences interact, this project provides data-driven strategies to optimize  inventory management, staffing, store performance, maximize profit margins, and drive target loyalty growth. 
 
 ---
 ## Project Objectives
 
-1. Analyze the dataset and identify patterns that affect total sales. 
+1. Formulate the business problem and preprocess the dataset.
 
-2. Build machine learning models to predict total sales. 
+2. Analyze the dataset and identify patterns that affect total sales. 
 
-3. Evaluate model performance and select the best-performing model. 
+3. Build machine learning models to predict total sales. 
 
-4. Provide actionable insights that could support business decision-making.
+4. Evaluate model performance and select the best-performing model. 
+
+5. Provide actionable insights that could support business decision-making.
 ---
-## 🚀 Key Outcomes & Takeaways
+##  Key Outcomes & Takeaways
 
-* **Top Sales Driver:** **Food and beverages** generates our highest overall revenue across the business.
+* **Top Sales Driver:** **Food and beverages** generates the highest overall revenue across the business.
 * **Slower Sales:** **Health and beauty** sits at the bottom, highlighting a need for better localized marketing.
 * **Price Power:** Customer purchase quantities stay steady regardless of price, showing strong pricing flexibility.
-* **Best Customer Group:** **Female Members** are our single largest spending group, making them our top priority.
-* **Peak Traffic Windows:** Store traffic surges heavily at **1:00 PM** and **7:00 PM**, giving us a clear staffing blueprint.
+* **Best Customer Group:** **Female Members** are the single largest spending group, making them the top priority.
+* **Peak Traffic Windows:** Store traffic surges heavily at **1:00 PM** and **7:00 PM**, giving a clear staffing blueprint.
 * **Top Store Location:** The **Giza Branch** leads the company in sales, while the **Cairo Branch** falls behind.
 * **Predictive Power:** Built a machine learning model that accurately forecasts future sales directly inside **Azure ML**.
 
 
-## 🛠️ Tech Stack & Environment Architecture
+##  Tech Stack & Environment Architecture
 * **Environment:** Azure Machine Learning Workspace (Compute Instance)
 * **Experiment Tracking:** MLflow Framework integration
 * **Core Libraries:** `scikit-learn`, `pandas`, `numpy`, `seaborn`, `matplotlib`
@@ -34,7 +35,7 @@ This analysis identifies the primary operational, demographic, and behavioral dr
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA) & My Insights
+##  Exploratory Data Analysis (EDA) & My Insights
 
 ### 1. Revenue Anchors by Product Line
 * **My Objective:** I ranked product categories by gross volume to identify the baseline revenue anchors of the store.
@@ -97,5 +98,5 @@ This analysis identifies the primary operational, demographic, and behavioral dr
 └── README.md                          # Case study documentation
 ```
 
-## 📜 License
+##  License
 This project is open-source and available under the terms of the [MIT License](LICENSE).
