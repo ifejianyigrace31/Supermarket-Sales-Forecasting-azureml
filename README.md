@@ -33,7 +33,7 @@ I framed business-driven questions to gain clarity, analyze the dataset and iden
 
 7. What are the hyper-local consumer spending habits and product preferences when we analyze average basket sizes across specific regional branches?
 
-  Detailed findings and recommendations are available in  [Business Insights](Reports/Business Insights.md).
+  Detailed findings and recommendations are available in  [Business_Insights.md](Reports/Business_Insights.md).
 
 
 
