@@ -16,6 +16,28 @@ This analysis identifies the primary operational, demographic, and behavioral dr
 
 5. Provide actionable insights that could support business decision-making.
 ---
+## Business Questions:
+I framed business-driven questions to gain clarity, analyze the dataset and identify patterns that affect total sales
+
+1. Which product line categories are the foundational revenue drivers, and which ones are underperforming in gross sales volume?
+
+2. Is the top-line revenue growth driven primarily by high-volume bulk ordering or by the premium pricing of single-unit transactions?
+
+3. How is total spending distributed across customer loyalty tiers (Members vs. Normal) and gender demographics, and where is the loyalty program most effective?
+
+4. What are the specific peak operational foot-traffic hours and low-revenue valleys across a 24-hour cycle?
+
+5. Which physical store branches and cities lead the company in overall financial footprint, and where do we see customer service or revenue bottlenecks?
+
+6. Do customer spending thresholds and transactional basket sizes structurally shift based on the payment method they choose (Ewallet, Cash, or Credit Card)?
+
+7. What are the hyper-local consumer spending habits and product preferences when we analyze average basket sizes across specific regional branches?
+
+  Detailed findings and recommendations are available in  [Business Insights](Business Insights.md).
+
+
+
+---
 ##  Key Outcomes & Takeaways
 
 * **Top Sales Driver:** **Food and beverages** generates the highest overall revenue across the business.
@@ -35,23 +57,7 @@ This analysis identifies the primary operational, demographic, and behavioral dr
 
 ---
 
-## Business Questions:
-I framed business-driven questions to gain clarity, analyze the dataset and identify patterns that affect total sales
 
-1. Which product line categories are the foundational revenue drivers, and which ones are underperforming in gross sales volume?
-
-2. Is the top-line revenue growth driven primarily by high-volume bulk ordering or by the premium pricing of single-unit transactions?
-
-3. How is total spending distributed across customer loyalty tiers (Members vs. Normal) and gender demographics, and where is the loyalty program most effective?
-
-4. What are the specific peak operational foot-traffic hours and low-revenue valleys across a 24-hour cycle?
-
-5. Which physical store branches and cities lead the company in overall financial footprint, and where do we see customer service or revenue bottlenecks?
-
-6. Do customer spending thresholds and transactional basket sizes structurally shift based on the payment method they choose (Ewallet, Cash, or Credit Card)?
-
-7. What are the hyper-local consumer spending habits and product preferences when we analyze average basket sizes across specific regional branches?
-  Detailed findings and recommendations are available in business_insights.md .
 ---
 
 ## Machine Learning Results
