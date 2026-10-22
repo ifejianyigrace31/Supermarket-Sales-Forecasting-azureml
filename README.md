@@ -35,6 +35,32 @@ I framed business-driven questions to gain clarity, analyze the dataset and iden
 
   Detailed findings and recommendations are available in  [Business_Insights.md](Reports/Business_Insights.md).
 
+---
+## Dataset and Scope
+Supermarket Sales Dataset: This dataset captures detailed transaction records from a supermarket chain in Myanmar across three cities: Yangon, Naypyitaw, and Mandalay. It provides a comprehensive view of sales activities, customer demographics, and payment methods from January to March 2019.
+
+Dataset: https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
+Publisher: Fares Ashraf
+Number of Columns: 17
+
+Column Descriptions:
+Invoice ID: A unique identifier for each transaction.
+Branch: The branch location of the supermarket (e.g., Yangon, Naypyitaw, Mandalay).
+City: The city where the branch is located.
+Customer Type: 'Member' or 'Normal' customer.
+Gender: Gender of the customer.
+Product Line: Product category (e.g., Health & Beauty, Electronic Accessories).
+Unit Price: Price per unit of the product.
+Quantity: Number of items purchased.
+Tax 5%: Tax amount based on a 5% rate.
+Total: Total transaction amount including tax.
+Date: Date of the transaction.
+Time: Time of the transaction.
+Payment: Payment method (Cash, Ewallet, Credit card).
+COGS (Cost of Goods Sold): Raw cost of the products sold.
+Gross Margin Percentage: Set at 4.7619%.
+Gross Income: Profit from each transaction.
+Customer Rating: Customer satisfaction rating (out of 10).
 
 
 ---
